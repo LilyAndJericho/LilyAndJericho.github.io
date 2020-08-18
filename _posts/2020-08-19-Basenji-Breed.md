@@ -4,7 +4,6 @@ title: Introduction to the Basenji Breed
 subtitle: A brief history of the Basenji dog.
 cover-img: /assets/img/StockBasenji.jpg
 thumbnail-img: /assets/img/PumpkinDog.jpg
-share-img: /assets/img/SunJericho.jpg
 tags: [history]
 ---
 
@@ -12,7 +11,6 @@ Basenjis are a breed of hunting dog that originated in Africa many years ago. [S
 <p align="center">
   <img src="https://raw.githubusercontent.com/LilyAndJericho/LilyAndJericho.github.io/master/assets/img/BasenjiEgypt.jpg" />
 </p>
-}
 
 These dogs are of medium-small size, have curly tails, and often come with a red and white coloration. In addition, Basenjis have a number of other unique traits: they produce a "yodeling" sound instead of barking, clean themselves like a cat, and are highly averse to moisture and wet weather. 
 
