@@ -2,8 +2,8 @@
 layout: post
 title: Introduction to the Basenji Breed
 subtitle: A brief history of the Basenji dog.
-cover-img: /assets/img/SleepyDog.jpg
-thumbnail-img: /assets/img/SunJericho.jpg
+cover-img: /assets/img/StockBasenji.jpg
+thumbnail-img: /assets/img/PumpkinDog.jpg
 share-img: /assets/img/SunJericho.jpg
 tags: [history]
 ---
