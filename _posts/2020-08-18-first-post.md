@@ -2,9 +2,9 @@
 layout: post
 title: First Post
 subtitle: An explanation of what this website is.
-cover-img: /assets/img/SunJericho.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/BothDogs.jpg
+thumbnail-img: /assets/img/SunJericho.jpg
+share-img: /assets/img/BothDogs.jpg
 tags: [test]
 ---
 
