@@ -5,6 +5,6 @@ permalink: /Dogs/
 description: "A gallery of my dogs."
 
 photos:
-    set: Dogs
+    set: A Gallery of my Dogs
     size: 3
 ---
